@@ -1,6 +1,6 @@
 /*
  * Copyright 2024 Mark T. Tomczak
- * Licensed under the MIT License (https://opensource.org/licenses/MIT)
+ * Licensed under the ISC License (https://opensource.org/license/isc-license-txt)
  */
 
 import React from 'react';
